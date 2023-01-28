@@ -10,3 +10,5 @@ Steps I followed:
 4. Forecast the values using Forecast Sheet
 
 The entire process of forecasting is given in this article:
+
+https://medium.com/@shrutipatkar76/forecasting-the-utilization-of-medical-procedures-using-excel-cd2b6378eb21
