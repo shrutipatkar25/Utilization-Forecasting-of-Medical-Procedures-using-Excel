@@ -1,5 +1,5 @@
 # Utilization-Forecasting-of-Medical-Procedures-using-Excel
-In this Project I have forecasted the utlization of Specific Medical Procedures using Excel. The link to the dataset which I have used for the project is here:
+In this Project I have forecasted the utilization of Specific Medical Procedures using Excel. The link to the dataset is here:
 
 https://data.chhs.ca.gov/dataset/utilization-rates-for-selected-medical-procedures-in-california-hospitals
 
