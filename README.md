@@ -5,7 +5,7 @@ https://data.chhs.ca.gov/dataset/utilization-rates-for-selected-medical-procedur
 
 Steps I followed:
 1. Import the Dataset in Excel
-2. Create Pivot Chart
+2. Create Pivot Table
 3. Forecast the values using Forecast Function
 4. Forecast the values using Forecast Sheet
 
